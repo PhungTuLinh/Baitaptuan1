@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+    <!-- Adding the logo at the top -->
+    <img src="https://static.topcv.vn/user_avatars/45oVu6n4XGLaqbnqy5V8_668981e89a5f5_av.jpg" alt="Phùng Tú Linh" width="50">
+
+    <!-- Adding a horizontal line for separation -->
+    <hr>
+
+    <!-- Adding the title of the page -->
+    <h1>Welcome to Linh's Web Page</h1>
+
+    <!-- Adding the main image -->
+    <img src="https://images.pexels.com/photos/163255/sunrise-sun-morgenrot-skies-163255.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="Image of Linh" width="1000">
+
+    <!-- Adding some introductory text from smith.txt -->
+    <p>
+        <!-- Assuming smith.txt contains content like "Hello, my name is Smith and this is my personal webpage." -->
+        <!-- Replace the placeholder text with actual content from smith.txt -->
+        Hello, my name is Linh and this is my personal webpage.
+    </p>
+
+    <!-- Adding some more content, possibly an ordered or unordered list -->
+    <h2>About Me</h2>
+    <p>My hobby:</p>
+    <ul>
+        <li>Listen to music</li>
+        <li>Watch a movie</li>
+        <li>Read a book</li>
+        <li>Traveling</li>
+    </ul>
+
+    <!-- Adding some external links if needed -->
+    <h2>Find me online</h2>
+    <p>
+        Check out my profiles:
+        <ul>
+            <li><a href="https://www.facebook.com/linh.phungtulinh/" target="_blank">Facebook</a></li>
+            <li><a href="https://www.instagram.com/ph.tlinh/" target="_blank">Instagram</a></li>
+        </ul>
+    </p>
+
+    <!-- Adding a table for structured data if necessary -->
+    <h2>My Schedule</h2>
+    <table border="1">
+        <tr>
+            <th>Day</th>
+            <th>Activity</th>
+        </tr>
+        <tr>
+            <td>Monday</td>
+            <td>Work at the company</td>
+        </tr>
+        <tr>
+            <td>Tuesday</td>
+            <td>Go to school</td>
+        </tr>
+        <tr>
+            <td>Wednesday</td>
+            <td>Work at the company</td>
+        </tr>
+        <tr>
+            <td>Thursday</td>
+            <td>Work at the company</td>
+        </tr>
+        <tr>
+            <td>Friday</td>
+            <td>Work at the company</td>
+        </tr>
+        <tr>
+            <td>Saturday</td>
+            <td>Go to school</td>
+        </tr>
+        <tr>
+            <td>Sunday</td>
+            <td>Relax at home or go out with friends</td>
+        </tr>
+    </table>
+
+    <!-- Adding a footer -->
+    <hr>
+    <p><i>Thank you for visiting my website!</i></p>
+</body>
+
+</html>
